@@ -1,6 +1,4 @@
 # 🌟 Bruk Alemayehu's Portfolio 🌟
-
-https://github.com/<your-username>/<repository-name>/blob/main/profile.jpg
 Welcome to my personal portfolio repository! This is where I showcase my skills, projects, and achievements as a pre-engineering student at **Wollo University, Kombolcha Institute of Technology (Kiot)**. 🚀
 
 ---
