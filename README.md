@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository! This is where I showcase my skills,
 ---
 
 ## 🌟 About Me 
-https://raw.githubusercontent.com/Brukalex/portfolio/main/assets/images/profile.jpg
+
 Hello! I am **Bruk Alemayehu**, a passionate and aspiring engineer with strong programming skills and a commitment to continuous learning. I specialize in developing creative and efficient solutions, leveraging my expertise in various programming languages and tools.  
 
 - 🎓 **Education**: Pre-Engineering at Wollo University, Kiot.  
